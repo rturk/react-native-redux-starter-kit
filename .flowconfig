@@ -4,7 +4,9 @@
 .*/android/
 
 [include]
+./src/
 
 [libs]
+./src/interfaces/
 
 [options]
